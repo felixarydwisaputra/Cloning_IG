@@ -1,4 +1,4 @@
-# uji
+# Cloning View Instagram
 
 A new Flutter project.
 
